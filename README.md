@@ -32,6 +32,3 @@ This is a React + TypeScript app built with Vite. It displays artworks from the 
 - Use the dropdown panel to select N rows
 - View selected artworks in the summary
 
-## License
-
-MIT
